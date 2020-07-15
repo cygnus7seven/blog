@@ -1,6 +1,6 @@
 baseURL = "http://cygnus7seven.github.io/"
 languageCode = "en-us"
 title = "Welcome to Cygnus7 Blog"
-theme = "hugo-theme-casper"
+theme = "hermit"
 paginate = 2
 Copyright = "Cygnus7©2020"
